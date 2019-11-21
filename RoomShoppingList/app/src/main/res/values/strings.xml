@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoomShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">Add</string>
+    <string name="dialog_message">Add Item to list</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
